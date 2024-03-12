@@ -87,6 +87,8 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
+
 ### Program:
 ```
 '''Depth First Search uses STACK AND RECURSION
